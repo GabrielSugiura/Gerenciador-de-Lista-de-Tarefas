@@ -6,25 +6,25 @@ Funcionamento
 Ao iniciar o programa, o usuário tem acesso a um menu interativo com diversas opções. As principais funcionalidades incluem:
 
 ## Cadastrar Tarefa
-### Adiciona uma nova tarefa à lista.
+Adiciona uma nova tarefa à lista.
 
 ## Listar Tarefas
-### Exibe todas as tarefas cadastradas.
+Exibe todas as tarefas cadastradas.
 
 ## Deletar Tarefa
-### Permite a exclusão de uma tarefa escolhida.
+Permite a exclusão de uma tarefa escolhida.
 
 ## Alterar Tarefa
-### Possibilita a modificação de uma tarefa existente.
+Possibilita a modificação de uma tarefa existente.
 
 ## Filtrar por Prioridade, Categoria e Status
-### Exibe tarefas com base em critérios específicos.
+Exibe tarefas com base em critérios específicos.
 
 ## Exportar Tarefas
-### Gera arquivos de texto com tarefas filtradas por prioridade, categoria ou ambos.
+Gera arquivos de texto com tarefas filtradas por prioridade, categoria ou ambos.
 
 ## Salvar e Encerrar
-### Salva a lista de tarefas em um arquivo e encerra o programa.
+Salva a lista de tarefas em um arquivo e encerra o programa.
 
 ## Como Usar
 
